@@ -26,3 +26,6 @@ Check out my website for **free** resources and mentoring: [SinDev](https://sind
 ## Contact
 
 Feel free to reach out to me at sindoonyt@gmail.com, or by going to [SinDev](https://sindo.dev).
+
+## Youtube
+https://www.youtube.com/watch?v=V070Zmvx9AM
